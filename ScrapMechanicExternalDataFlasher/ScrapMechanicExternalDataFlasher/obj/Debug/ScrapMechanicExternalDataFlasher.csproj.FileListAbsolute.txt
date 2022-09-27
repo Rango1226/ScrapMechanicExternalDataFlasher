@@ -1,0 +1,3 @@
+C:\Users\Rango\source\repos\ScrapMechanicExternalDataFlasher\ScrapMechanicExternalDataFlasher\obj\Debug\ScrapMechanicExternalDataFlasher.csproj.AssemblyReference.cache
+C:\Users\Rango\source\repos\ScrapMechanicExternalDataFlasher\ScrapMechanicExternalDataFlasher\obj\Debug\ScrapMechanicExternalDataFlasher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rango\source\repos\ScrapMechanicExternalDataFlasher\ScrapMechanicExternalDataFlasher\obj\Debug\ScrapMechanicExternalDataFlasher.csproj.CoreCompileInputs.cache

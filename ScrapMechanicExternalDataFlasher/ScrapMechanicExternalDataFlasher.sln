@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapMechanicExternalDataFlasher", "ScrapMechanicExternalDataFlasher\ScrapMechanicExternalDataFlasher.csproj", "{FE1C3E55-78E7-4A3B-BF6A-DF0B981CA425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1C3E55-78E7-4A3B-BF6A-DF0B981CA425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1C3E55-78E7-4A3B-BF6A-DF0B981CA425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1C3E55-78E7-4A3B-BF6A-DF0B981CA425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1C3E55-78E7-4A3B-BF6A-DF0B981CA425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2259DC80-BAD8-417B-8C60-97D2F5C59954}
+	EndGlobalSection
+EndGlobal
